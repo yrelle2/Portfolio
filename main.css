@@ -1,3 +1,50 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 1.5rem;
+}
+
+h1 {
+    text-align: center;
+    margin: 1.5rem 0;
+}
+
+h2 {
+    color: #1F3A5F;
+    margin: 0 0 0.75rem;
+}
+
 h3 {
     font-weight: lighter;
+    margin: 0.5rem 0;
+}
+
+hr {
+    margin: 1.75rem 0;
+}
+
+ul {
+    margin: 0.5rem 0;
+    padding-left: 1.5rem;
+}
+
+li {
+    margin-bottom: 0.5rem;
+}
+
+.id-photo {
+    float: right;
+    width: 15%;
+    min-width: 90px;
+    margin-right: 7%;
+}
+
+.tech {
+    color: #555;
+}
+
+a {
+    color: #1F3A5F;
 }
